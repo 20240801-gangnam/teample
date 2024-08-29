@@ -15,7 +15,7 @@ public class Application {
         System.out.println("연산자?");
         scr.nextLine();
         char c = scr.nextLine().charAt(0);
-
+        System.out.println("asdasdas");
         switch (c){
             case '+' : break;
             case '-' : break;

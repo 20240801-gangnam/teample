@@ -16,6 +16,7 @@ public class Application {
         scr.nextLine();
         char c = scr.nextLine().charAt(0);
         System.out.println("asdasdas");
+        System.out.println("#2 업데이트");
         switch (c){
             case '+' : break;
             case '-' : break;
